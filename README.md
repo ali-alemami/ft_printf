@@ -1,6 +1,8 @@
 *This project has been created as part of the 42 curriculum by aalemami.*
 
-## Description
+# ft_printf
+
+---
 
 ft_printf is a custom implementation of the C standard library function `printf`. It handles the following format specifiers: `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, and `%%`. The function is compiled into a static library `libftprintf.a`.
 
